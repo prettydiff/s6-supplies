@@ -27,7 +27,7 @@ Qty|Item
 ## How to modify this document
 1. download and install Git if you do not already have it: https://git-scm.com/
 1. go to Github and create an account, then fork the repository by click the the big *fork* button in the upper right corner
-1. get this document (change the *myaccount* part to your account name): `git clone git@github.com:myaccount/s6-supplies.git`
+1. get this document (change the *myaccount* part to your account name, or simply copy the generated link github provides for you): `git clone git@github.com:myaccount/s6-supplies.git`
 1. go into the directory: `cd s6-supplies`
 1. make changes to the file named *readme.md*
 1. stage your changes: `git add readme.md`
