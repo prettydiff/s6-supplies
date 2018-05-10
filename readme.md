@@ -8,10 +8,12 @@ Qty|Item
 3|Electronic style soldering kits
 4|Boxes of ink pens
 1|Box of mechanical pencils
+1|box of red pens
+1|box of paper envolopes, 50 count
 6-8|Rolls of duct tape
 2|Units of 550 cord
 2|Stacks of printer paper
-6|Highlighters
+1|Highlighter pack, 6 count
 2|Whiteboard marker set (including eraser)
 2|Staplers
 2|Boxes of staples
@@ -22,7 +24,17 @@ Qty|Item
 1|Set of dry erase magnetic labels
 2|Packs of white out correction tape
 4|scissors
-3|Shredder oil
+3|Shredder machine oil
+20|small legal pads
+20|small pocket bottles of hand sanitizer
+200|lap top screws *(dimenions required)*
+1|bag of rubber bands, size 64, 200 count
+3|3 hole punch
+5|clipboards
+12|disenfecting wipe tubes
+12|screen cleaning wipe tubes
+12|canned air
+
 
 ## How to modify this document
 1. download and install Git if you do not already have it: https://git-scm.com/
