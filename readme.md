@@ -32,11 +32,11 @@ Qty|Item
 1. make changes to the file named *readme.md*
 1. stage your changes: `git add readme.md`
 1. write a commit: `git commit -m "added items"`
-1. push your changes: `git push origin master`
+1. push your changes back to your fork: `git push origin master`
 1. Go to github and create a pull request
 1. Github will notify me of your changes, I will review them, and I will accept them
 
 ## Why?
 Because passing documents around is stupid.  That is how people lose things, things get overwritten, or chaos ensues with 18 different document versions.
 
-This is a managed distributed solution where everything is tracked, centrally managed, all changes come with a history, and nothing gets lost **ever**!
+This is a distributed solution where everything is tracked, centrally managed, all changes come with a history, and nothing gets lost **ever**!
